@@ -40,5 +40,7 @@ uvicorn==0.35.0
 wheel==0.45.1
 openpyxl==3.1.5
 xlsxwriter==3.2.0
+fastapi==0.124.2
+
 
 
